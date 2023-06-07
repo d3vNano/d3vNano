@@ -3,7 +3,7 @@
   <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Luiz+Dorigo;and+i'm+a+Full+Stack+Developer." />
 </h1>
 
-[![Language Badge](https://img.shields.io/badge/Language-EN--US-000?labelColor=000&style=social)](https://github.com/d3vNano/d3vNano/blob/main/README-PT.md)
+[![Language Badge](https://img.shields.io/badge/Language-EN--US-000?labelColor=000&style=social)](https://github.com/d3vNano/d3vNano/blob/main/README.md)
 <h1></h1>
 
 
