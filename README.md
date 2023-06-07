@@ -18,12 +18,12 @@
 💬 Sinta-se à vontade para entrar em contato e me perguntar o que quiser:
 </div>
 
-<img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vNano&langs_count=3&title_color=FFF&icon_color=FFF&text_color=9f9f9f&border_color=000000&bg_color=050505"/>
-
 
 <h2>Links e Contato:</h2>
 
-
+<!--
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vNano&langs_count=3&title_color=FFF&icon_color=FFF&text_color=9f9f9f&border_color=000000&bg_color=050505"/>
+-->
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541996627334?text=Ol%C3%A1%2C+vim+atrav%C3%A9s+do+seu+GitHub%21+... "Contato via WhatsApp")
 [![Linkedin Badge](https://img.shields.io/badge/-in/d3vNano-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/d3vNano/ "Conecte-se no LinkedIn")
 [![Gmail Badge](https://img.shields.io/badge/-contato.dorigo@gmail.com-000000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contao.dorigo@gmail.com "Contato via E-mail")
