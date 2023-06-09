@@ -30,61 +30,23 @@
 
 <h2>Linguagens de programação:</h2>
 
-<img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
 
 <h2>Bibliotecas & Frameworks</h2>
 
-<img src="https://img.shields.io/badge/React.js-000?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/styled--components-000?style=for-the-badge&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/React Query-000?style=for-the-badge&logo=reactquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Axios|Fetch-000?style=for-the-badge&logo=axios&logoColor=white"/>
-<img src="https://img.shields.io/badge/webpack-000?style=for-the-badge&logo=webpack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prettier-000?style=for-the-badge&logo=prettier&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Sass|Scss-000?style=for-the-badge&logo=sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCss-000?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/oauth-000?style=for-the-badge&logo=singlestore&logoColor=white"/>
-<img src="https://img.shields.io/badge/jest-000?style=for-the-badge&logo=jest&logoColor=white"/>
-<img src="https://img.shields.io/badge/nest.js-000?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/dotenv-000?style=for-the-badge&logo=dotenv&logoColor=white"/>
-<img src="https://img.shields.io/badge/eslint-000?style=for-the-badge&logo=eslint&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-000?style=for-the-badge&logo=react&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/styled--components-000?style=for-the-badge&logo=styled-components&logoColor=white"/><img src="https://img.shields.io/badge/React Query-000?style=for-the-badge&logo=reactquery&logoColor=white"/><img src="https://img.shields.io/badge/Axios|Fetch-000?style=for-the-badge&logo=axios&logoColor=white"/><img src="https://img.shields.io/badge/webpack-000?style=for-the-badge&logo=webpack&logoColor=white"/><img src="https://img.shields.io/badge/Prettier-000?style=for-the-badge&logo=prettier&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Sass|Scss-000?style=for-the-badge&logo=sass&logoColor=white"/><img src="https://img.shields.io/badge/TailwindCss-000?style=for-the-badge&logo=tailwindcss&logoColor=white"/><img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=white"/><img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white"/><img src="https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/><img src="https://img.shields.io/badge/oauth-000?style=for-the-badge&logo=singlestore&logoColor=white"/><img src="https://img.shields.io/badge/jest-000?style=for-the-badge&logo=jest&logoColor=white"/><img src="https://img.shields.io/badge/nest.js-000?style=for-the-badge&logo=nestjs&logoColor=white"/><img src="https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm&logoColor=white"/><img src="https://img.shields.io/badge/dotenv-000?style=for-the-badge&logo=dotenv&logoColor=white"/><img src="https://img.shields.io/badge/eslint-000?style=for-the-badge&logo=eslint&logoColor=white"/><img src="https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker&logoColor=white"/>
 
 <h2>Deployes</h2>
 
-<img src="https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/render-000?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB Atlas-000?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/aws-000?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/><img src="https://img.shields.io/badge/render-000?style=for-the-badge&logo=render&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB Atlas-000?style=for-the-badge&logo=mongodb&logoColor=white"/><img src="https://img.shields.io/badge/aws-000?style=for-the-badge&logo=amazonaws&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <h2>Banco de Dados & ORM</h2>
 
-<img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/prisma-000?style=for-the-badge&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/redis-000?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white"/><img src="https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql&logoColor=white"/><img src="https://img.shields.io/badge/prisma-000?style=for-the-badge&logo=prisma&logoColor=white"/><img src="https://img.shields.io/badge/redis-000?style=for-the-badge&logo=redis&logoColor=white"/>
 
 <h2>Editores & Ferramentas</h2>
 
-<img src="https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/trello-000?style=for-the-badge&logo=trello&logoColor=white"/>
-<img src="https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobe cc-000?style=for-the-badge&logo=adobecreativecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/illustrator-000?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/indesign-000?style=for-the-badge&logo=adobeindesign&logoColor=white"/>
-<img src="https://img.shields.io/badge/dreamweaver-000?style=for-the-badge&logo=adobedreamweaver&logoColor=white"/>
-<img src="https://img.shields.io/badge/premiere-000?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><img src="https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion&logoColor=white"/><img src="https://img.shields.io/badge/trello-000?style=for-the-badge&logo=trello&logoColor=white"/><img src="https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma&logoColor=white"/><img src="https://img.shields.io/badge/adobe cc-000?style=for-the-badge&logo=adobecreativecloud&logoColor=white"/><img src="https://img.shields.io/badge/photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=white"/><img src="https://img.shields.io/badge/illustrator-000?style=for-the-badge&logo=adobeillustrator&logoColor=white"/><img src="https://img.shields.io/badge/indesign-000?style=for-the-badge&logo=adobeindesign&logoColor=white"/><img src="https://img.shields.io/badge/dreamweaver-000?style=for-the-badge&logo=adobedreamweaver&logoColor=white"/><img src="https://img.shields.io/badge/premiere-000?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
