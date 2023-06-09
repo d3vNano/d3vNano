@@ -38,11 +38,11 @@
 
 <h2>Deployes</h2>
 
-<img src="https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/><img src="https://img.shields.io/badge/render-000?style=for-the-badge&logo=render&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB Atlas-000?style=for-the-badge&logo=mongodb&logoColor=white"/><img src="https://img.shields.io/badge/aws-000?style=for-the-badge&logo=amazonaws&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/render-000?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB Atlas-000?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/aws-000?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <h2>Banco de Dados & ORM</h2>
 
-<img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white"/><img src="https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql&logoColor=white"/><img src="https://img.shields.io/badge/prisma-000?style=for-the-badge&logo=prisma&logoColor=white"/><img src="https://img.shields.io/badge/redis-000?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/prisma-000?style=for-the-badge&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/redis-000?style=for-the-badge&logo=redis&logoColor=white"/>
 
 <h2>Editores & Ferramentas</h2>
 
