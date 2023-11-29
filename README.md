@@ -11,9 +11,7 @@
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=d3vNano&title_color=FFF&icon_color=FFF&text_color=9f9f9f&border_color=000000&bg_color=000&show_icons=true" alt="My github stats"/>
 
 
-🔭 Meu último projeto é [techlyd]()!
-
-🌱 Atualmente, estou aprendendo **Next.js** e me aprofundando em **React.js**
+🌱 Atualmente, estou aprendendo **Cibersecurity** e me aprofundando em **React Native.js**
 
 💬 Sinta-se à vontade para entrar em contato e me perguntar o que quiser:
 </div>
